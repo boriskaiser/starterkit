@@ -1,0 +1,26 @@
+{
+  "name": "starterkit",
+  "version": "1.0.0",
+  "description": "Yet another starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boriskaiser/starterkit.git"
+  },
+  "keywords": [
+    "starterkit"
+  ],
+  "author": {
+    "name": "Boris Kaiser",
+    "email": "mail@boriskaiser.com",
+    "url": "http://boriskaiser.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boriskaiser/starterkit/issues"
+  },
+  "homepage": "https://github.com/boriskaiser/starterkit#readme"
+}
